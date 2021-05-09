@@ -22,4 +22,4 @@ Authors:
 - [Ben Roberson](https://github.com/BenDRoberson)
 - [Bingying Yong](https://github.com/byyong)
 
-This project was completed for Deep Learning with Healthcare Applications (CS498) at the University of Illinois at Urbana-Champaig
+This project was completed for Deep Learning with Healthcare Applications (CS498) at the University of Illinois at Urbana-Champaign
