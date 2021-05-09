@@ -17,7 +17,7 @@ Model results:
 Note: The data is imbalanced (with about 7x more negative than positive images), so accuracy should be taken with a grain of salt.
 
 Authors:
-- Kyle Maxwell
+- [Kyle Maxwell](linkedin.com/in/kylemaxwell)
 - [Tom Phelan](https://github.com/tphe)
 - [Ben Roberson](https://github.com/BenDRoberson)
 - [Bingying Yong](https://github.com/byyong)
